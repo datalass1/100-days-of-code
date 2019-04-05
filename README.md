@@ -14,6 +14,8 @@ I have used sentinelsat, pandas and os libraries.
 
 **Tomorrows plans:** Visualisation of the imagery data. Look at gdal, rasterio and skimage. 
 
+
+
 ### Day 1: 6th April
 
 
