@@ -2,19 +2,15 @@
 
 ### Day 0: 5th April 2019
 
-**Today's Progress**: Download and visualising RGB in satellite imagery
+**Today's Progress:** Downloaded Sentinel imagery
 
 **Thoughts:**
+- I have used the sentinelsat api to query and download data from the Copernicus Access Hub (https://scihub.copernicus.eu/dhus/#/home) before at work and found it worked well. The source code GitHub account shows recent commits. 
+- It is important to save my login details for the Copernicus Access Hub as environmental variables so as not to give away password information. 
+- I want to use Pathlib rather than os.path.join because it slicker, much simplier and comes with much more functionality, see this post: https://pbpython.com/pathlib-intro.html
+- Time has been spend fixing QGIS in this session, I had dependency issues and aptitude saved the day. 
 
 **Link to work:**
 
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-
+### Day 1: 
