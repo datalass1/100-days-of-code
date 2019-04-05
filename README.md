@@ -14,6 +14,7 @@ I have used sentinelsat, pandas and os libraries.
 
 **Tomorrows plans:** Visualisation of the imagery data. Look at gdal, rasterio and skimage. 
 
+![day 1](https://github.com/datalass1/100-days-of-code/blob/master/images/day1-QGIS-downloaded-imagery.png?raw=true)
 
 
 ### Day 1: 6th April
