@@ -22,5 +22,7 @@ I have used sentinelsat, pandas and os libraries.
 Inspiration: https://github.com/scikit-image/skimage-tutorials and https://www.youtube.com/watch?v=pZATswy_IsQ
 
 # Some of my most used code and links
-while read requirement; do conda install --yes $requirement; done < requirements.txt
+- while read requirement; do conda install --yes $requirement; done < requirements.txt 
+
+source: https://gist.github.com/luiscape/19d2d73a8c7b59411a2fb73a697f5ed4
 
