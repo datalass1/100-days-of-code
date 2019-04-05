@@ -4,6 +4,7 @@
 Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day-1-code-to-download-and-process-a-satellite-image.ipynb
 
 **Today's Progress:** Downloaded Sentinel imagery. GeoJSON produced in QGIS, downloaded imagery viewed in QGIS. 
+I have used sentinelsat, pandas and os libraries. 
 
 **Thoughts:**
 - I have used the sentinelsat api to query and download data from the Copernicus Access Hub (https://scihub.copernicus.eu/dhus/#/home) before at work and found it worked well. The source code on Sentinelsat GitHub account shows recent commits. 
