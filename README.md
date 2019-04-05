@@ -19,7 +19,7 @@ I have used sentinelsat, pandas and os libraries.
 
 ### Day 1: 6th April
 
-
+Inspiration: https://github.com/scikit-image/skimage-tutorials and https://www.youtube.com/watch?v=pZATswy_IsQ
 
 
 
