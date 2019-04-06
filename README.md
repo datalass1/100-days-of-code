@@ -18,8 +18,15 @@ I have used sentinelsat, pandas and os libraries.
 
 
 ### Day 1: 6th April
+Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day-1-visualising-imagery.ipynb
 
-Inspiration: https://github.com/scikit-image/skimage-tutorials and https://www.youtube.com/watch?v=pZATswy_IsQ
+**Today's Progress:** Pre-process Sentinel-2 1C imagery to stack 10m bands 2,3,4,8 and visualise each individual band 
+
+**Thoughts:** Using Geospatial Data Abstraction Library (GDAL) is a great library for reading and writing raster and vector data. It support Sentinel data and I was able apply gdal_translate to change JP2000 to tif for the 10m bands and then merge with seperate to stack the imagery. Using rasterio to read in the stacked tif and visualise each individual band. 
+
+**Tomorrows plans:**
+More visualisation and exploratory data analysis of Sentinel imagery. I would like to try displaying the RGB and False colour images, as well as some image manipulation. I wonder if these tutorials coule be applied: Inspiration: https://github.com/scikit-image/skimage-tutorials and https://www.youtube.com/watch?v=pZATswy_IsQ
+
 
 # Some of my most used code and links
 - while read requirement; do conda install --yes $requirement; done < requirements.txt https://gist.github.com/luiscape/19d2d73a8c7b59411a2fb73a697f5ed4
