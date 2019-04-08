@@ -49,10 +49,12 @@ Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/note
 ### Day 3: 8th April
 Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day3-image-filtering-removing-noise-from-arrays.ipynb
 
-**Today's Progress:** Using numpy and scipy on arrays to remove noise. Two techniques explored: averging with nearest pixels
+**Today's Progress:** Using numpy and scipy on arrays to remove noise. Two techniques explored: averaging with nearest pixel
 and convolution. 
 
 **Thoughts:** Convolution is HARD! I looked at Khan Acadmeys video 'Introduction to Convolution' and it is rather mathematical. I found Ian Goodfellows book on Deep Learning: https://www.deeplearningbook.org/contents/convnets.html and intend to spend some time with this. 
+
+Convolutions can be applied in numpy and scipy, the latter providing more options for padding out the edges of the array.
 
 I'm really enjoying the scipy skimage image analysis YouTube demos and exercises to flex those numpy and image filtering muscles. 
 
