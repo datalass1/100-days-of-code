@@ -63,6 +63,7 @@ I'm really enjoying the scipy skimage image analysis YouTube demos and exercises
 ![noise removal](https://github.com/datalass1/100-days-of-code/blob/master/images/day3-filtering-noise-from-arrays.png?raw=true)
 
 ### Day 4: 9th April
+Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day-4-image-filters-smoothing-images.ipynb
 
 **Today's Progress:** Convolution to find the edge in a 1D array. Then running scipy and skimage awesome ready made code/demo to visualise 2D convolution for smoothing imagery by edge detection. I then tried turning my RGB Madagascar tif into a png for easy image reading and manipulation.
 
@@ -71,6 +72,4 @@ I'm really enjoying the scipy skimage image analysis YouTube demos and exercises
 **Tomorrows plans:** crop the Madagascar image, smooth the image, find edges in the image. 
 ![edgy](https://github.com/datalass1/100-days-of-code/blob/master/images/day4-finding-edges.png?raw=true)
 
-# Some of my most used code and links
-- while read requirement; do conda install --yes $requirement; done < requirements.txt https://gist.github.com/luiscape/19d2d73a8c7b59411a2fb73a697f5ed4
 
