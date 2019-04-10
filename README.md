@@ -72,4 +72,12 @@ Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/note
 **Tomorrows plans:** crop the Madagascar image, smooth the image, find edges in the image. 
 ![edgy](https://github.com/datalass1/100-days-of-code/blob/master/images/day4-finding-edges.png?raw=true)
 
+### Day 5: 10th April
+Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day-5-Gaussian-filter-smoothing.ipynb
+**Today's Progress:** How smooth is gaussian? Testing smoothing on imagery following the scipy and skimage tutorials. Mean vs. Gaussian and visualisation of the Gaussian curve. Using scipy ndimage again for convolution, skimages img_as_float, and lot's of matplotlib.
 
+**Thoughts:** The only thing that I don't like is that matplotlib won't autocomplete or provide function options when I Shift + Tab. Tip: skimages io function callig io.imshow(image) is useful for quick visualisation of an image. 
+
+**Tomorrows plans:** There are so many options. I need to finish this scipy and skimage tutorial. I would also like to crop my Madagascar image, smooth and find edges. #realsatellitedata
+
+![gaussian](https://github.com/datalass1/100-days-of-code/blob/master/images/day5-gaussian-smoothing.png?raw=true)
