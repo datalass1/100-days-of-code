@@ -74,7 +74,8 @@ Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/note
 
 ### Day 5: 10th April
 Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day-5-Gaussian-filter-smoothing.ipynb
-**Today's Progress:** How smooth is gaussian? Testing smoothing on imagery following the scipy and skimage tutorials. Mean vs. Gaussian and visualisation of the Gaussian curve. Using scipy ndimage again for convolution, skimages img_as_float, and lot's of matplotlib.
+
+**Today's Progress:** How smooth is Gaussian? Testing smoothing on imagery following the scipy and skimage tutorials. Mean vs. Gaussian and visualisation of the Gaussian curve. Using scipy ndimage again for convolution, skimages img_as_float, and lot's of matplotlib.
 
 **Thoughts:** The only thing that I don't like is that matplotlib won't autocomplete or provide function options when I Shift + Tab. Tip: skimages io function callig io.imshow(image) is useful for quick visualisation of an image. 
 
