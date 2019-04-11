@@ -82,3 +82,14 @@ Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/note
 **Tomorrows plans:** There are so many options. I need to finish this scipy and skimage tutorial. I would also like to crop my Madagascar image, smooth and find edges. #realsatellitedata
 
 ![gaussian](https://github.com/datalass1/100-days-of-code/blob/master/images/day5-gaussian-smoothing.png?raw=true)
+
+### Day 6: 11th April
+Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day-6-Gaussian-smooth-and-crop-Toliara-barrier-reef.ipynb
+
+**Today's Progress:** Cropped using numpy array slicing and smoothing using Gaussian filter from skimage. 
+
+**Thoughts:** I had to set img_as_float again and there is some interesting info here about sensible rescaling: http://scikit-image.org/docs/dev/user_guide/data_types.html
+
+**Tomorrows plans:** practice finding edges and apply it to the Madagascar image.
+
+![toliara reef](https://github.com/datalass1/100-days-of-code/blob/master/images/day6-smooth-toliara-reef.png?raw=true)
