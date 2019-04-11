@@ -88,7 +88,7 @@ Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/note
 
 **Today's Progress:** Cropped using numpy array slicing and smoothing using Gaussian filter from skimage. 
 
-**Thoughts:** I had to set img_as_float again and there is some interesting info here about sensible rescaling: http://scikit-image.org/docs/dev/user_guide/data_types.html
+**Thoughts:** I had to set img_as_float again and there is some interesting info here about sensible rescaling: http://scikit-image.org/docs/dev/user_guide/data_types.html and to reiterate from the lessons so far we use smoothing to reduce noise and pixelation. 
 
 **Tomorrows plans:** practice finding edges and apply it to the Madagascar image.
 
