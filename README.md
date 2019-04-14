@@ -103,3 +103,11 @@ Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/note
 
 **Tomorrows plans:** Continue with the plans to visualise and try smoothing and segmentation of the imagery. I could test with skimage data first and the try on the satellite imagery. 
 
+### Day 8: 14th April
+Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day-8-working-with-rasterio-amazon-cropping.ipynb
+
+**Today's Progress:** continued work with satellite imagery. I find that working with rasterio might be a better choice than skimage for geospatial imagery. skimage has some cool functionality that I could call on for edge detection and segmentation but for reading data in and out rasterio may be the better option. New packages I worked with today: Shapely, GeoPandas and Pycrs. 
+
+**Thoughts:** Changing tack is difficult. I didn't finish today with a beautifully polished script or visualisations. But I did learn about reading data in and out, perhaps skimage will be usful for general image manipulation but reading in and out I need gdal or rasterio. I tried cropping my Amazon image, it ended up in the wrong location, I need to understand affine and transform more.
+
+**Tomorrows plans:** Figure out how to put my cropped image in the correct location! Then start smoothing and image manipulation if there is time tomorrow. 
