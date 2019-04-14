@@ -93,3 +93,13 @@ Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/note
 **Tomorrows plans:** practice finding edges and apply it to the Madagascar image.
 
 ![toliara reef](https://github.com/datalass1/100-days-of-code/blob/master/images/day6-smooth-toliara-reef.png?raw=true)
+
+### Day 7: 13th April
+Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day-7-downloading-amazon-imagery-with-sentinelsat-GDAL.ipynb
+
+**Today's Progress:** Downloading imagery again, this time looking over the Amazon rainforest at a place called Amapa which has a high level of deforestation. Once again using sentinelsat and gdal. Trying out rasterio for visualisation.
+
+**Thoughts:** Ran out of time to perfect visualisation, working on this for about 4hours. Time flies when gathering data and trying to formulate some sort of plan for a project. I did a bit of a turn on my plans and instead of Madagascar I am looking at the Amazon rainforest, it will be easier to segment and find edges forest or not forest.
+
+**Tomorrows plans:** Continue with the plans to visualise and try smoothing and segmentation of the imagery. I could test with skimage data first and the try on the satellite imagery. 
+
