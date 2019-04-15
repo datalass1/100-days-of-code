@@ -121,5 +121,5 @@ Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/note
 
 **Tomorrows plans:** Finish reading Chris Garrards chapter on raster geoprocessing and do some further EDA on the imagery then if there is time some Gaussian smoothing and perhaps further image analysis. 
 
-! [2016](https://github.com/datalass1/100-days-of-code/blob/master/images/day9-2016-DNs.png?raw=true)
-! [2018](https://github.com/datalass1/100-days-of-code/blob/master/images/day9-2018-DNs.png?raw=true)
+![2016](https://github.com/datalass1/100-days-of-code/blob/master/images/day9-2016-DNs.png?raw=true)
+![2018](https://github.com/datalass1/100-days-of-code/blob/master/images/day9-2018-DNs.png?raw=true)
