@@ -104,10 +104,21 @@ Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/note
 **Tomorrows plans:** Continue with the plans to visualise and try smoothing and segmentation of the imagery. I could test with skimage data first and the try on the satellite imagery. 
 
 ### Day 8: 14th April
-Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day-8-working-with-rasterio-amazon-cropping.ipynb
+Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day-8-and-9-working-with-rasterio-amazon-cropping.ipynb
 
 **Today's Progress:** continued work with satellite imagery. I find that working with rasterio might be a better choice than skimage for geospatial imagery. skimage has some cool functionality that I could call on for edge detection and segmentation but for reading data in and out rasterio may be the better option. New packages I worked with today: Shapely, GeoPandas and Pycrs. 
 
 **Thoughts:** Changing tack is difficult. I didn't finish today with a beautifully polished script or visualisations. But I did learn about reading data in and out, perhaps skimage will be usful for general image manipulation but reading in and out I need gdal or rasterio. I tried cropping my Amazon image, it ended up in the wrong location, I need to understand affine and transform more.
 
 **Tomorrows plans:** Figure out how to put my cropped image in the correct location! Then start smoothing and image manipulation if there is time tomorrow. 
+
+### Day 9: 15th April
+Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day-8-and-9-working-with-rasterio-amazon-cropping.ipynb
+
+**Today's Progress:** Successful work with rasterio, I fixed the affine problem. It was down to a spelling error...classic! But along the way I found a great book to read and understand more: Geoprocessing with Python by Chris Garrard. 
+
+**Thoughts:** It is strange that the values of the 2016 and 2018 imagery differ so much...perhaps something to investigate further. Shame to see so much cloud cover in 2016 as well, but not surprising over the Amazon rainforest (not dryforest).
+
+**Tomorrows plans:** Finish reading Chris Garrards chapter on raster geoprocessing and do some further EDA on the imagery then if there is time some Gaussian smoothing and perhaps further image analysis. 
+
+
