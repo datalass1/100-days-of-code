@@ -133,6 +133,6 @@ Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/note
 
 **Tomorrows plans:** Read more of Chris Garrards chapter on raster geoprocessing, don't give up, what other work can you do with image processing over the Amazon? Is there more statistical analysis of pixel counts, visulaisation (such as histograms) and image manipulation :)
 
-![ndvi](
+![ndvi](https://github.com/datalass1/100-days-of-code/blob/master/images/day10-ndvi-amazon-rainforest-amapa.png?raw=true)
 
 
