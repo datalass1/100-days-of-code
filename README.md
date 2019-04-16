@@ -119,7 +119,20 @@ Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/note
 
 **Thoughts:** It is strange that the values of the 2016 and 2018 imagery differ so much...perhaps something to investigate further. Shame to see so much cloud cover in 2016 as well, but not surprising over the Amazon rainforest (not dryforest).
 
-**Tomorrows plans:** Finish reading Chris Garrards chapter on raster geoprocessing and do some further EDA on the imagery then if there is time some Gaussian smoothing and perhaps further image analysis. 
+**Tomorrows plans:** Read more of Chris Garrards chapter on raster geoprocessing and do some further EDA on the imagery then if there is time some Gaussian smoothing and perhaps further image analysis. 
 
 ![2016](https://github.com/datalass1/100-days-of-code/blob/master/images/day9-2016-DNs.png?raw=true)
 ![2018](https://github.com/datalass1/100-days-of-code/blob/master/images/day9-2018-DNs.png?raw=true)
+
+### Day 10: 16th April
+Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day-10-ndvi-over-amazon-rainforest-amapa-chip.ipynb
+
+**Today's Progress:** Calculating NDVI for the Amazon rainforest crop over Amapa, Brazil. Healthy vegetation reflects NIR more, think of a False colour image. Playing about with matplotlib to create subplots of two plots with one colorbar. 
+
+**Thoughts:** Rasterio will open the tif as a `numpy array` when using `with rasterio.open(image_path) as src: image = src.read()` whereas by opening the tif as `image = rasterio.open(image_path)` creates an object type for reading: `rasterio._io.RasterReader`. By using a with statement ensures that files are closed.
+
+**Tomorrows plans:** Read more of Chris Garrards chapter on raster geoprocessing, don't give up, what other work can you do with image processing over the Amazon? Is there more statistical analysis of pixel counts, visulaisation (such as histograms) and image manipulation :)
+
+![ndvi](
+
+
