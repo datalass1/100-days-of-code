@@ -131,4 +131,8 @@ Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/note
 
 **Thoughts:** Rasterio will open the tif as a `numpy array` when using `with rasterio.open(image_path) as src: image = src.read()` whereas by opening the tif as `image = rasterio.open(image_path)` creates an object type for reading: `rasterio._io.RasterReader`. By using a with statement ensures that files are closed.
 
-**Tomorrows plans:** Read more of Chris Garrards chapter on raster geoprocessing, don't give up, what other work can you do with image processing over the Amazon? Is there more statistical analysis of pixel counts and manipulation. 
+**Tomorrows plans:** Read more of Chris Garrards chapter on raster geoprocessing, don't give up, what other work can you do with image processing over the Amazon? Is there more statistical analysis of pixel counts, visulaisation (such as histograms) and image manipulation :)
+
+![ndvi](
+
+
