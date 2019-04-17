@@ -135,4 +135,15 @@ Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/note
 
 ![ndvi](https://github.com/datalass1/100-days-of-code/blob/master/images/day10-ndvi-amazon-rainforest-amapa.png?raw=true)
 
+### Day 11: 17th April
+Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day-11-CoNVO-mapping-amazon-rainforest-river-system.ipynb
 
+**Today's Progress:** SO! I did not want to go back to Gaussian smoothing when I had already successfully tested it on the Toliara coral reef imagery. I spoke with Tom at work about my lack of direction and interest in mapping the Amazon and he suggested I write a CoNVO. This stands for Context, Need, Vision and Outcome.
+
+**Thoughts:** The why before the how. Finding the data and the technicques with machine learning to fit to the problem rather than finding a problem to fit to the data. So in Day 11's notebook you will find my CoNVO. I used Thinking with Data by Max Shron book to get the basics. Having vision is difficult and is dependent on experience, and there is no shortcut to experience, I particularly liked this quote: 
+
+"There is a saying in the world of Go: lose your first fifty games of Go as quickly as possible."
+
+Quality comes with experience. So forgive me if my CoNVO is nonsense, some of it actually it (i.e. I made it up). 
+
+**Tomorrows plans:** Get started on this awesome project. 
