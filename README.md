@@ -142,7 +142,7 @@ Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/note
 
 **Thoughts:** The why before the how. Finding the data and the technicques with machine learning to fit to the problem rather than finding a problem to fit to the data. So in Day 11's notebook you will find my CoNVO. I used Thinking with Data by Max Shron book to get the basics. Having vision is difficult and is dependent on experience, and there is no shortcut to experience, I particularly liked this quote: 
 
-"There is a saying in the world of Go: lose your first fifty games of Go as quickly as possible."
+*"There is a saying in the world of Go: lose your first fifty games of Go as quickly as possible."*
 
 Quality comes with experience. So forgive me if my CoNVO is nonsense, some of it actually it (i.e. I made it up). 
 
