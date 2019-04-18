@@ -147,3 +147,9 @@ Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/note
 Quality comes with experience. So forgive me if my CoNVO is nonsense, some of it actually it (i.e. I made it up). 
 
 **Tomorrows plans:** Get started on this awesome project. 
+
+# Glossary of Data Science Terminology
+
+**Machine Learning**
+[Machine Learning is the] field of study that gives computers the ability to learn without being explicitly programmed, Arthur Samuel, 1959. And a more engineering-oriented one: A computer program is said to learn from experience E with respect to some task T and some performance measure P, if its performance on T, as measured by P, improves with experience E, Tom Mitchell, 1997
+source: Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition by Aurélien Géron
