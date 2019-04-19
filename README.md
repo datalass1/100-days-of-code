@@ -154,3 +154,11 @@ Quality comes with experience. So forgive me if my CoNVO is nonsense, some of it
 [Machine Learning is the] field of study that gives computers the ability to learn without being explicitly programmed, Arthur Samuel, 1959. And a more engineering-oriented one: A computer program is said to learn from experience E with respect to some task T and some performance measure P, if its performance on T, as measured by P, improves with experience E, Tom Mitchell, 1997
 
 Source: Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition by Aurélien Géron
+
+# Backlog
+
+**Python API in QGIS** suggested by Cate.
+
+**Visualisation automation of satellite imagery**, and check out the BBC  Earth from Space for the beautiful imagery and seamless transitions from various imaging platforms https://www.bbc.co.uk/iplayer/episode/p072n7qd/earth-from-space-series-1-1-a-new-perspective suggested by Austin.
+
+
