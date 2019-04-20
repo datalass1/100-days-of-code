@@ -149,7 +149,7 @@ Quality comes with experience. So forgive me if my CoNVO is nonsense, some of it
 **Tomorrows plans:** Get started on this awesome project. 
 
 ### Day 12: 19th April
-Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day-12-kanban-prep-and-k-means-testing.ipynb
+Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day-12-and-13-kanban-prep-and-k-means-testing.ipynb
 
 **Today's Progress:** Busy day working on kanban. Lot's of research trying to find the best machine learning techniques for classification to apply to satellite imagery. Tested k-means from scikit learns cluster module. 
 
@@ -157,6 +157,16 @@ Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/note
 
 **Tomorrows plans:** Continue refining the k-means and kanban. 
 
+### Day 13: 20th April
+Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day-12-and-13-kanban-prep-and-k-means-testing.ipynb
+
+**Today's Progress:** A great short session finishing off yesterday work on k-means. Perfecting the affine to output the tif with the correct origin for spatial reference. 
+
+**Thoughts:** Happy that affine worked. Again, thanks to Geoprocessing with Python by Chris Garrard. K-means not great, water pixels mixed up with forest etc and the smalled rivers classifed seperately to the larger rivers. 
+
+**Tomorrows plans:** Kanban and next steps. knn could be worth looking into at this stage for some OBIA, is it OBIA...hmm?
+
+![kmeans](
 
 # Glossary of Data Science Terminology
 
