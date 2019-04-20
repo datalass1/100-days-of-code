@@ -148,6 +148,16 @@ Quality comes with experience. So forgive me if my CoNVO is nonsense, some of it
 
 **Tomorrows plans:** Get started on this awesome project. 
 
+### Day 12: 19th April
+Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day-12-kanban-prep-and-k-means-testing.ipynb
+
+**Today's Progress:** Busy day working on kanban. Lot's of research trying to find the best machine learning techniques for classification to apply to satellite imagery. Tested k-means from scikit learns cluster module. 
+
+**Thoughts:** A great first machine learning technique to try. A nice beginners algorithm that will find patterns in data to create a model. I used the clustering on the blue band of the TCI JP2 from Sentinel. Git problems today, corrupt with object file error and fsck segementation fault. After trying to fix for 1hr I cloned from remote repo again and moved the new ipynbs from a copy of the local repo. It worked (yay!) and the only thing I have lost is my .git history (that i know of so far). 
+
+**Tomorrows plans:** Continue refining the k-means and kanban. 
+
+
 # Glossary of Data Science Terminology
 
 **Machine Learning**
