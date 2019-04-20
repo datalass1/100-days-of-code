@@ -166,7 +166,7 @@ Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/note
 
 **Tomorrows plans:** Kanban and next steps. knn could be worth looking into at this stage for some OBIA, is it OBIA...hmm?
 
-![kmeans](
+![kmeans](https://github.com/datalass1/100-days-of-code/blob/master/images/day13-kmeans.png?raw=true)
 
 # Glossary of Data Science Terminology
 
