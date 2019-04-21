@@ -170,6 +170,17 @@ Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/note
 
 **Additional note:** A [twitter thread recommended by Sean Gillies](https://twitter.com/sgillies/status/1119738614169001984) on affine/geotransform differences between gdal, ESRI world file and rasterio. Also in the thread is a link to tHE tissot indicatrix. 
 
+### Day 14: 21st April
+Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day-14-ndwi-k-means-amazon.ipynb
+
+**Today's Progress:** trying ndwi with k-means. Better results than I had with just k-means on one band. 
+
+**Thoughts:** A full ipynb created to collect imagery from sentinel hub, extract jp2s of bands 1,2,3 and 8 to tifs, create a false color learnt from Chris Garrards Geoprocessing book chpt 9, then ndwi and k-means with sklearn cluster. Great result. 
+
+**Tomorrows plans:** Some visualisation of this result.
+
+![nwdi k-means](https://github.com/datalass1/100-days-of-code/blob/master/images/day14-ndwi-k-means.png?raw=true)
+
 # Glossary of Data Science Terminology
 
 **Machine Learning**
