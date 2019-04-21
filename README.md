@@ -168,6 +168,8 @@ Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/note
 
 ![kmeans](https://github.com/datalass1/100-days-of-code/blob/master/images/day13-kmeans.png?raw=true)
 
+**Additional note:** A [twitter thread recommended by Sean Gillies](https://twitter.com/sgillies/status/1119738614169001984) on affine/geotransform differences between gdal, ESRI world file and rasterio. Also in the thread is a link to tHE tissot indicatrix. 
+
 # Glossary of Data Science Terminology
 
 **Machine Learning**
