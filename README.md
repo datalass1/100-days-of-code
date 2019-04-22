@@ -181,6 +181,16 @@ Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/note
 
 ![nwdi k-means](https://github.com/datalass1/100-days-of-code/blob/master/images/day14-ndwi-k-means.png?raw=true)
 
+### Day 15: 22nd April
+Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day-15-visualising-and-polygonizing-river-data.ipynb
+
+**Today's Progress:** Started with numpy where `np.where` statement to change all non-river values to NaN. Then tried some visualisation with folium for raster and potentialy vector data. 
+
+**Thoughts:** using gdal_polygonize.py for raster to polygon. It did not like NaN values. Folium was also struggling to show ImageAsOverlay with the reprojected raster. Raster reprojected using rasterio, really handy script found online, link in notebook. 
+
+**Tomorrows plans:** Continue with visualisation and polygonization. 
+
+
 # Glossary of Data Science Terminology
 
 **Machine Learning**
