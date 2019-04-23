@@ -182,7 +182,7 @@ Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/note
 ![nwdi k-means](https://github.com/datalass1/100-days-of-code/blob/master/images/day14-ndwi-k-means.png?raw=true)
 
 ### Day 15: 22nd April
-Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day-15-visualising-and-polygonizing-river-data.ipynb
+Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day-15-and-16-visualising-and-polygonizing-river-data.ipynb
 
 **Today's Progress:** Started with numpy where `np.where` statement to change all non-river values to NaN. Then tried some visualisation with folium for raster and potentialy vector data. 
 
@@ -191,8 +191,13 @@ Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/note
 **Tomorrows plans:** Continue with visualisation and polygonization. 
 
 ### Day 16: 23rd April
-Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day-15-visualising-and-polygonizing-river-data.ipynb
+Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day-15-and-16-visualising-and-polygonizing-river-data.ipynb
 
+**Today's Progress:** Failure with folium, success with polygonisation.
+
+**Thoughts:** Backed out of the interesting folium rabbit hole, and decided that unless I am in need of a webmap I could be quite happy with QGIS and matplotlib for visualisation (so I included a histogram today and a terrain cmap. The reprojected to web mercator tif for foliums ImageOverlay was showing up in the correct location but as a grey box. gdal polygonize.py worked today, I changed nothing compared to yesterday. 
+
+**Tomorrows plans:** Move onto more machine learning. YAY!
 
 # Glossary of Data Science Terminology
 
