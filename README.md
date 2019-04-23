@@ -195,7 +195,7 @@ Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/note
 
 **Today's Progress:** Failure with folium, success with polygonisation.
 
-**Thoughts:** Backed out of the interesting folium rabbit hole, and decided that unless I am in need of a webmap I could be quite happy with QGIS and matplotlib for visualisation (so I included a histogram today and a terrain cmap. The reprojected to web mercator tif for foliums ImageOverlay was showing up in the correct location but as a grey box. gdal polygonize.py worked today, I changed nothing compared to yesterday. 
+**Thoughts:** Backed out of the interesting folium rabbit hole, and decided that unless I am in need of a webmap I could be quite happy with QGIS and matplotlib for visualisation ... so I included a histogram today and a terrain cmap, as well as the image below snapped from QGIS. The reprojected to web mercator tif for foliums ImageOverlay was showing up in the correct location but as a grey box. gdal polygonize.py worked today, I changed nothing compared to yesterday. 
 
 **Tomorrows plans:** Move onto more machine learning. YAY!
 
