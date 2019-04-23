@@ -199,6 +199,8 @@ Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/note
 
 **Tomorrows plans:** Move onto more machine learning. YAY!
 
+![rivers](https://github.com/datalass1/100-days-of-code/blob/master/images/day15-rivers-overlay-false-color-tif.png?raw=true)
+
 # Glossary of Data Science Terminology
 
 **Machine Learning**
