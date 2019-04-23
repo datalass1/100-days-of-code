@@ -190,6 +190,9 @@ Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/note
 
 **Tomorrows plans:** Continue with visualisation and polygonization. 
 
+### Day 16: 23rd April
+Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day-15-visualising-and-polygonizing-river-data.ipynb
+
 
 # Glossary of Data Science Terminology
 
