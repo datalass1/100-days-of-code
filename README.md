@@ -212,6 +212,7 @@ Source: Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd 
 
 **Python API in QGIS** suggested by Cate.
 
-**Visualisation automation of satellite imagery**, and check out the BBC  Earth from Space for the beautiful imagery and seamless transitions from various imaging platforms https://www.bbc.co.uk/iplayer/episode/p072n7qd/earth-from-space-series-1-1-a-new-perspective suggested by Austin.
+**Creating quality images for using visualisation automation of satellite imagery:** check out the BBC  Earth from Space for the beautiful imagery and seamless transitions from various imaging platforms https://www.bbc.co.uk/iplayer/episode/p072n7qd/earth-from-space-series-1-1-a-new-perspective suggested by Austin.
 
 
+**Visualisation with PyViz:** [tutorial](http://pyviz.org/tutorial/index.html) and [video](https://www.youtube.com/watch?v=k27MJJLJNT4), about [holoviews](http://holoviews.org/), [geoviews](http://geoviews.org/), some cool notebookes: [airports](https://anaconda.org/philippjfr/airport_connections/notebook), [nyc taxi](http://datashader.org/topics/nyc_taxi.html), [OSM points](o	http://datashader.org/topics/osm-1billion.html). Using dask functionality, here is the [docs](https://docs.dask.org/en/latest/) and a [tutorial](https://github.com/dask/dask-tutorial/) suggested by Andrew.
