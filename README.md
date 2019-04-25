@@ -204,7 +204,7 @@ Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/note
 ### Day 17: 24th April
 **Today's Progress:** Feeling a bit run-down today I committed to the 100 Days of Code challenge by downloading Francois Chollet (author of Keras) audio book 'Deep Learning with Python', here it is on [oreilly](https://learning.oreilly.com/library/view/deep-learning-with/9781617294433/kindle_split_000.html).
 
-**Thoughts:** The book starts with some of the history. Ada Lovelace in the 1850s commenting on the analytical machine. Alan Turing 100years later questioning whether general purpose computers could generate orginality e.g. the Turing Test. Definitions, such as Machine Learning is "searching for useful representations of some input data, within a pre-defined space of possibilities, using guidance from a feedback signal." And other tecnical terms, wights, loss functions, probablistic modelling (naive bayes and logistic regression), neural networks, backpropagation.  
+**Thoughts:** The book starts with some of the history. Ada Lovelace in the 1850s commenting on the analytical machine. Alan Turing 100years later questioning whether general purpose computers could generate orginality e.g. the Turing Test. Definitions, such as Machine Learning is "searching for useful representations of some input data, within a pre-defined space of possibilities, using guidance from a feedback signal." And other tecnical terms, weights, loss functions, probablistic modelling (naive bayes and logistic regression), neural networks, backpropagation.  
 
 **Tomorrows plans:** Either back to machine learning or the audio book again. 
 
