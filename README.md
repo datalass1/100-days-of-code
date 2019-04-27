@@ -208,6 +208,14 @@ Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/note
 
 **Tomorrows plans:** Either back to machine learning or the audio book again. 
 
+### Day 18: 27th April
+
+**Today's Progress:** Started looking at Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition
+by Aurélien Géron to get acquinted with scikit-learn to train myself up so I can apply Random Forest to the satellite image. I created a day-future nb for random forest and got the S2 data prepped.  
+
+**Thoughts:** Knowing where to start; reading, tutorials, blogs. #CantSeeTheWoodForTheTrees
+
+**Tomorrows plans:** Try a random forest tutorial for imagery, and answer how and why it will be useful for mapping rivers in the amazon. 
 
 # Glossary of Data Science Terminology
 
