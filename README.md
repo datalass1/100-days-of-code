@@ -1,6 +1,6 @@
 # I've joined the #100DaysOfCode Challenge
 
-## Day 0: 5th April
+### Day 0: 5th April
 Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day-0-code-to-download-satellite-imagery.ipynb
 
 **Today's Progress:** Downloaded Sentinel imagery. GeoJSON produced in QGIS, downloaded imagery viewed in QGIS. 
@@ -15,7 +15,6 @@ I have used sentinelsat, pandas and os libraries.
 **Tomorrows plans:** Visualisation of the imagery data. Look at gdal, rasterio and skimage. 
 
 ![day 1](https://github.com/datalass1/100-days-of-code/blob/master/images/day1-QGIS-downloaded-imagery.png?raw=true)
-
 
 ### Day 1: 6th April
 Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day-1-visualising-imagery.ipynb
@@ -63,6 +62,7 @@ I'm really enjoying the scipy skimage image analysis YouTube demos and exercises
 ![noise removal](https://github.com/datalass1/100-days-of-code/blob/master/images/day3-filtering-noise-from-arrays.png?raw=true)
 
 ### Day 4: 9th April
+
 Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day-4-image-filters-smoothing-images.ipynb
 
 **Today's Progress:** Convolution to find the edge in a 1D array. Then running scipy and skimage awesome ready made code/demo to visualise 2D convolution for smoothing imagery by edge detection. I then tried turning my RGB Madagascar tif into a png for easy image reading and manipulation.
@@ -197,9 +197,17 @@ Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/note
 
 **Thoughts:** Backed out of the interesting folium rabbit hole, and decided that unless I am in need of a webmap I could be quite happy with QGIS and matplotlib for visualisation ... so I included a histogram today and a terrain cmap, as well as the image below snapped from QGIS. The reprojected to web mercator tif for foliums ImageOverlay was showing up in the correct location but as a grey box. gdal polygonize.py worked today, I changed nothing compared to yesterday. 
 
-**Tomorrows plans:** Move onto more machine learning. YAY!
+**Tomorrows plans:** Move onto more machine learning.
 
 ![rivers](https://github.com/datalass1/100-days-of-code/blob/master/images/day15-rivers-overlay-false-color-tif.png?raw=true)
+
+### Day 17: 24th April
+**Today's Progress:** Feeling a bit run-down today I committed to the 100 Days of Code challenge by downloading Francois Chollet (author of Keras) audio book 'Deep Learning with Python', here it is on [oreilly](https://learning.oreilly.com/library/view/deep-learning-with/9781617294433/kindle_split_000.html).
+
+**Thoughts:** The book starts with some of the history. Ada Lovelace in the 1850s commenting on the analytical machine. Alan Turing 100years later questioning whether general purpose computers could generate orginality e.g. the Turing Test. Definitions, such as Machine Learning is "searching for useful representations of some input data, within a pre-defined space of possibilities, using guidance from a feedback signal." And other tecnical terms, weights, loss functions, probablistic modelling (naive bayes and logistic regression), neural networks, backpropagation.  
+
+**Tomorrows plans:** Either back to machine learning or the audio book again. 
+
 
 # Glossary of Data Science Terminology
 
@@ -212,6 +220,6 @@ Source: Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd 
 
 **Python API in QGIS** suggested by Cate.
 
-**Visualisation automation of satellite imagery**, and check out the BBC  Earth from Space for the beautiful imagery and seamless transitions from various imaging platforms https://www.bbc.co.uk/iplayer/episode/p072n7qd/earth-from-space-series-1-1-a-new-perspective suggested by Austin.
+**Creating quality images for using visualisation automation of satellite imagery:** check out the [BBC Earth from Space](https://www.bbc.co.uk/iplayer/episode/p072n7qd/earth-from-space-series-1-1-a-new-perspective) for the beautiful imagery and seamless transitions from various imaging platforms suggested by Austin.
 
-
+**Visualisation with PyViz:** [tutorial](http://pyviz.org/tutorial/index.html) and [video](https://www.youtube.com/watch?v=k27MJJLJNT4), about [holoviews](http://holoviews.org/), [geoviews](http://geoviews.org/), some cool notebookes: [airports](https://anaconda.org/philippjfr/airport_connections/notebook), [nyc taxi](http://datashader.org/topics/nyc_taxi.html), [OSM points](http://datashader.org/topics/osm-1billion.html). Using dask functionality, here is the [docs](https://docs.dask.org/en/latest/) and a [tutorial](https://github.com/dask/dask-tutorial/) suggested by Andrew.
