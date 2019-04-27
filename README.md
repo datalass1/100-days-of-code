@@ -1,9 +1,9 @@
 # I've joined the #100DaysOfCode Challenge
 
-- [Day 0: 5th April](#day0)
-- [Day 1: 6th April](#day1)
-- [Day 2: 7th April](#day2)
-- [Day 3: 8th April](#day3)
+- [Day 0: 5th April](#day-0)
+- [Day 1: 6th April](#day-1)
+- [Day 2: 7th April](#day-2)
+- [Day 3: 8th April](#day-3)
 
 ## Day 0: 5th April
 Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day-0-code-to-download-satellite-imagery.ipynb
