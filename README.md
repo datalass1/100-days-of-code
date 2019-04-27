@@ -1,14 +1,11 @@
 # I've joined the #100DaysOfCode Challenge
 
-- [Platforms](#platforms)
-- [Hello](#hi)
 - [Day 0](#day0)
-- [Day 1](#day 1)
-- [Day 2](#day 2)
-- [Day 3](#day 3)
+- [Day 1](#day1)
+- [Day 2](#day2)
+- [Day 3](#day3)
 
-## Day 0 
-5th April
+## Day 0: 5th April
 Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day-0-code-to-download-satellite-imagery.ipynb
 
 **Today's Progress:** Downloaded Sentinel imagery. GeoJSON produced in QGIS, downloaded imagery viewed in QGIS. 
@@ -23,9 +20,6 @@ I have used sentinelsat, pandas and os libraries.
 **Tomorrows plans:** Visualisation of the imagery data. Look at gdal, rasterio and skimage. 
 
 ![day 1](https://github.com/datalass1/100-days-of-code/blob/master/images/day1-QGIS-downloaded-imagery.png?raw=true)
-## Platforms
-
-## Hello
 
 ### Day 1: 6th April
 Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day-1-visualising-imagery.ipynb
