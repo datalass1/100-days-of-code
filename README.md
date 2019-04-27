@@ -4,6 +4,7 @@
 - [Day 1: 6th April](#day-1)
 - [Day 2: 7th April](#day-2)
 - [Day 3: 8th April](#day-3)
+- [hiya](#hello-you)
 
 ## Day 0: 5th April
 Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day-0-code-to-download-satellite-imagery.ipynb
@@ -50,6 +51,8 @@ Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/note
 
 ![cat](https://github.com/datalass1/100-days-of-code/blob/master/images/day3-HIcat.png?raw=true)
 ![true_false_imagery](https://github.com/datalass1/100-days-of-code/blob/master/images/day3_true_false_color_images.png?raw=true)
+
+## Hello You
 
 ## Day 3: 8th April
 Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day3-image-filtering-removing-noise-from-arrays.ipynb
