@@ -1,5 +1,6 @@
 # I've joined the #100DaysOfCode Challenge
 
+- [Platforms](#platforms)
 - [Day 0](#day 0)
 - [Day 1](#day 1)
 - [Day 2](#day 2)
@@ -20,6 +21,7 @@ I have used sentinelsat, pandas and os libraries.
 **Tomorrows plans:** Visualisation of the imagery data. Look at gdal, rasterio and skimage. 
 
 ![day 1](https://github.com/datalass1/100-days-of-code/blob/master/images/day1-QGIS-downloaded-imagery.png?raw=true)
+## Platforms
 
 
 ### Day 1: 6th April
