@@ -4,9 +4,11 @@
 - [Day 1: 6th April](#day-1)
 - [Day 2: 7th April](#day-2)
 - [Day 3: 8th April](#day-3)
-- [hiya](#hello-you)
 
-## Day 0: 5th April
+## Day 0
+
+5th April
+
 Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day-0-code-to-download-satellite-imagery.ipynb
 
 **Today's Progress:** Downloaded Sentinel imagery. GeoJSON produced in QGIS, downloaded imagery viewed in QGIS. 
@@ -22,7 +24,9 @@ I have used sentinelsat, pandas and os libraries.
 
 ![day 1](https://github.com/datalass1/100-days-of-code/blob/master/images/day1-QGIS-downloaded-imagery.png?raw=true)
 
-## Day 1: 6th April
+## Day 1
+
+6th April
 
 Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day-1-visualising-imagery.ipynb
 
@@ -35,7 +39,10 @@ More visualisation and exploratory data analysis of Sentinel imagery. I would li
 
 ![day_2](https://github.com/datalass1/100-days-of-code/blob/master/images/day2-image-bands.png?raw=true)
 
-## Day 2: 7th April
+## Day 2
+
+7th April
+
 Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day-2-skimage-numpys-and-visualisation.ipynb
 
 **Today's Progress:** Using scikit image to work with imagery data as numpy arrays, pre-processing for matplotlib visualisation by normalising and equalising the Sentinel-2 imagery.
@@ -52,9 +59,10 @@ Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/note
 ![cat](https://github.com/datalass1/100-days-of-code/blob/master/images/day3-HIcat.png?raw=true)
 ![true_false_imagery](https://github.com/datalass1/100-days-of-code/blob/master/images/day3_true_false_color_images.png?raw=true)
 
-## Hello You
+## Day 3
 
-## Day 3: 8th April
+8th April
+
 Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day3-image-filtering-removing-noise-from-arrays.ipynb
 
 **Today's Progress:** Using numpy and scipy on arrays to remove noise. Two techniques explored: averaging with nearest pixel
@@ -70,7 +78,10 @@ I'm really enjoying the scipy skimage image analysis YouTube demos and exercises
 
 ![noise removal](https://github.com/datalass1/100-days-of-code/blob/master/images/day3-filtering-noise-from-arrays.png?raw=true)
 
-### Day 4: 9th April
+## Day 4
+
+9th April
+
 Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day-4-image-filters-smoothing-images.ipynb
 
 **Today's Progress:** Convolution to find the edge in a 1D array. Then running scipy and skimage awesome ready made code/demo to visualise 2D convolution for smoothing imagery by edge detection. I then tried turning my RGB Madagascar tif into a png for easy image reading and manipulation.
