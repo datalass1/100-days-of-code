@@ -1,7 +1,8 @@
 # I've joined the #100DaysOfCode Challenge
 
 - [Platforms](#platforms)
-- [Day 0](#day 0)
+- [Hello](#hi)
+- [Day 0](#day0)
 - [Day 1](#day 1)
 - [Day 2](#day 2)
 - [Day 3](#day 3)
@@ -24,6 +25,7 @@ I have used sentinelsat, pandas and os libraries.
 ![day 1](https://github.com/datalass1/100-days-of-code/blob/master/images/day1-QGIS-downloaded-imagery.png?raw=true)
 ## Platforms
 
+## Hello
 
 ### Day 1: 6th April
 Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day-1-visualising-imagery.ipynb
