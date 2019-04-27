@@ -1,5 +1,10 @@
 # I've joined the #100DaysOfCode Challenge
 
+- [Day 0](#day 0)
+- [Day 1](#day 1)
+- [Day 2](#day 2)
+- [Day 3](#day 3)
+
 ## Day 0: 5th April
 Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day-0-code-to-download-satellite-imagery.ipynb
 
