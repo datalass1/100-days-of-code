@@ -219,6 +219,25 @@ by Aurélien Géron to get acquinted with scikit-learn to train myself up so I c
 
 **Tomorrows plans:** Try a random forest tutorial for imagery, and answer how and why it will be useful for mapping rivers in the amazon. 
 
+### Day 19: 28th April
+Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day-19-exploring-random-forest.ipynb
+
+**Today's Progress:** Further research on ensemble methods and Random Forest Classifier, with testing on the iris and breast cancer sklearn datasets.
+
+**Thoughts:** Starting with deicion trees in Scikit-Learn that uses the Classification And Regression Tree (CART) algorithm. This is a binary (yes/no), greedy algorithm which looks for optimum split reducing cost (called recursive binary splitting). To avoid overfitting use regulaization e.g. restrict the maximum depth of the decision tree. 
+
+Ensemble methods are meta-algorithms that combine several machine learning techniques into one predictive model in order to decrease variance (bagging), bias (boosting), or improve predictions (stacking). I looked into combining Bagging classifier and KNN for better results on the sklearns breast cancer dataset.  
+
+Random Forest is an extension of bagged (bootstrap aggregating) decision trees. Each tree in the ensemble is built from a sample drawn with replacement (bootstrap) and instead of using all features, a random subset of feature is selected, further randomising the tree. 
+
+Boosting is useful for convert weak learners to strong learners. 
+
+[This is a great blog post](https://blog.statsbot.co/ensemble-learning-d1dcd548e936) on the subject of today.
+
+"This is how you win ML competitions: you take other peoples’ work and ensemble them together.” Vitaly Kuznetsov NIPS2014
+
+**Tomorrows plans:** Contiue looking at ensemble methods and Randon Forest for classification of imagery. 
+
 # Glossary of Data Science Terminology
 
 **Machine Learning**
