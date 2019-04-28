@@ -181,7 +181,7 @@ Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/note
 
 ![nwdi k-means](https://github.com/datalass1/100-days-of-code/blob/master/images/day14-ndwi-k-means.png?raw=true)
 
-**Revisit:** Use k-means on ALL the satellite bands, a useful [tutorial](https://www.linkedin.com/pulse/k-means-python-3-sentinel-2-data-andrew-cutts)
+**Revisit:** Use k-means on ALL the satellite bands, a useful [tutorial](https://www.linkedin.com/pulse/k-means-python-3-sentinel-2-data-andrew-cutts). Also, how do we understand optimum number of clusters for dataset? [This tutorial](https://learning.oreilly.com/learning-paths/learning-path-machine/9781838820725/9781789340525-video2_2) on compactness score and expectations from k-means.
 
 ### Day 15: 22nd April
 Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day-15-and-16-visualising-and-polygonizing-river-data.ipynb
