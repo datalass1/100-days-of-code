@@ -238,6 +238,17 @@ Boosting is useful for convert weak learners to strong learners.
 
 **Tomorrows plans:** Contiue looking at ensemble methods and Randon Forest for classification of imagery. 
 
+### Day 20: 29th April
+
+**Today's Progress:** Watched some awesome Google Earth Engine API tutorials on Arrays and Classification. 
+
+**Thoughts:** Top Tip is to always watch these videos sped up, sometimes 2x speed (especially if it is a workshop). Links to the great tutorials to code from: 
+- [Classification with Noel Goerlick]( https://developers.google.com/earth-engine/classification)
+- [Some tutorial notes for GeoHacWeek2018](https://docs.google.com/document/d/1keJGLN-j5H5B-kQXdwy0ryx6E8j2D9KZVEUD-v9evys/edit#)
+- [My Classification code](https://code.earthengine.google.com/84027208bf2a94e77b5f14075fc5a938)
+
+**Tomorrows plans:** Get on and try out some of the classification models in GEE. 
+
 # Glossary of Data Science Terminology
 
 **Machine Learning**
