@@ -249,6 +249,18 @@ Boosting is useful for convert weak learners to strong learners.
 
 **Tomorrows plans:** Get on and try out some of the classification models in GEE. 
 
+### Day 21: 30th April
+
+**Today's Progress:** Created a sentinel javaScript for image classification using the CART algorithm, started looking at an accuracy test using confusion matrix. 
+
+**Thoughts:** Great fun using Google Earth Engine for image classification workflow training. Spoke with Tom today in pursuit of my interest in Object Based Image Analysis and he suggests image segementation that I can pick up from the skimage library. I looked at this technique in the video I watched in days 1-6 but I didn't apply segmentation. 
+
+GEE top tip: the help button in top right provides a list of keyboard shortcuts. 
+
+A really helpful [post on calculating fallow land in California with RF](https://github.com/brmagnuson/LandFallowingInEarthEngine).
+
+**Tomorrows plans:** Aim to complete GEE work then move onto image segmentation and ML in python with skimage and sklearn. So tomorrow work on Random Forest and accuracy assessment. 
+
 # Glossary of Data Science Terminology
 
 **Machine Learning**
