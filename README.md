@@ -252,9 +252,9 @@ Boosting is useful for convert weak learners to strong learners.
 ### Day 21: 30th April
 Link to GEE script: https://code.earthengine.google.com/8647c08ceae6f8a300f47a2bcda862fc
 
-**Today's Progress:** Created a sentinel javaScript for image classification using the CART algorithm, started looking at an accuracy test using confusion matrix. 
+**Today's Progress:** Created a GEE javaScript for image classification using the CART algorithm, started looking at an accuracy test using confusion matrix. 
 
-**Thoughts:** Great fun using Google Earth Engine for image classification workflow training. Spoke with Tom today in pursuit of my interest in Object Based Image Analysis and he suggests image segementation that I can pick up from the skimage library. I looked at this technique in the video I watched in days 1-6 but I didn't apply segmentation. 
+**Thoughts:** Great fun using GEE for image classification workflow training. Spoke with Tom today in pursuit of my interest in Object Based Image Analysis and he suggests image segementation that I can pick up from the skimage library. I previously looked at this technique in the video I watched in days 1-6 but I didn't apply segmentation, now I have a good reason! 
 
 GEE top tip: the help button in top right provides a list of keyboard shortcuts. 
 
