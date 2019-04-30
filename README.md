@@ -250,6 +250,7 @@ Boosting is useful for convert weak learners to strong learners.
 **Tomorrows plans:** Get on and try out some of the classification models in GEE. 
 
 ### Day 21: 30th April
+Link to GEE script: https://code.earthengine.google.com/8647c08ceae6f8a300f47a2bcda862fc
 
 **Today's Progress:** Created a sentinel javaScript for image classification using the CART algorithm, started looking at an accuracy test using confusion matrix. 
 
