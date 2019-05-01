@@ -262,6 +262,15 @@ A really helpful [post on calculating fallow land in California with RF](https:/
 
 **Tomorrows plans:** Aim to complete GEE work then move onto image segmentation and ML in python with skimage and sklearn. So tomorrow work on Random Forest and accuracy assessment. 
 
+### Day 22: 1st May
+Link to GEE Script: https://code.earthengine.google.com/6a0779085f023dab360325a649cf8c9e
+
+**Today's Progress:** Back in GEE trying Random Forest and cloud removal using a cirrus and cloud mask from the Sentinel-2 Q60 band and then creating a single image using median pixel values. I also tried to be smart with the training data.
+
+**Thoughts:** Trying to be smart with the training data and use the water mask pixels from MODIS/006/MOD44W as locations for training data. Similar example used in the 20190430-RF-classifier-example javascript Random Forest example. 
+
+**Tomorrows plans:** Have a look at training data options, finish Random Forest. 
+
 # Glossary of Data Science Terminology
 
 **Machine Learning**
