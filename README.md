@@ -271,6 +271,15 @@ Link to GEE Script: https://code.earthengine.google.com/6a0779085f023dab360325a6
 
 **Tomorrows plans:** Have a look at training data options, finish Random Forest. 
 
+### Day 23: 5th May
+Link to GEE Script: https://code.earthengine.google.com/7ad725eb9a5f699a6315ae2e28ab43ee
+
+**Today's Progress:** Finished up Google Earth Engine work after completing a Random Forest with accuracy assessment confusion matrix. 
+
+**Thoughts:** Accuracy 98% with false positives of water: over-predicting. With such a small subset of data point for training and testing the result is rather salt and peppery. I think the k-means looked better!
+
+**Tomorrows plans:** Ready to move onto some python code and libraries for random forest.
+
 # Glossary of Data Science Terminology
 
 **Machine Learning**
