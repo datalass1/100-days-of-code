@@ -280,6 +280,15 @@ Link to GEE Script: https://code.earthengine.google.com/7ad725eb9a5f699a6315ae2e
 
 **Tomorrows plans:** Ready to move onto some python code and libraries for random forest.
 
+### Day 24: 6th May
+Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/notebooks/Day-24-image-segmentation-with-skimage-examples.ipynb
+
+**Today's Progress:** Great experience using scikit-image and numpy for math to perform image segmentation. Today I tested thresholding for image segmentation on text and supervised segementation with active contour and random walker. 
+
+**Thoughts:** The math to create a circle was a good learning point for revising some high school trigonometry. 
+
+**Tomorrows plans:** More image segmentation and practice. 
+
 # Glossary of Data Science Terminology
 
 **Machine Learning**
