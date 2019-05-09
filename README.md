@@ -289,6 +289,14 @@ Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/note
 
 **Tomorrows plans:** More image segmentation and practice. 
 
+### Day 25 and 26 May
+
+**Today's Progress:** On these days I am listening to Fracois Chollets audiobook Deep Learning with Python and working through sololearn to refine my python coding. 
+
+**Thoughts:** A useful way to learn when working through a sprint at work; 9 hour days and lots of interesting work. 
+
+**Tomorrows plans:** I would like to pick up where I left off and go back to image segmentation and practice.
+
 # Glossary of Data Science Terminology
 
 **Machine Learning**
