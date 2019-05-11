@@ -297,6 +297,14 @@ Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/note
 
 **Tomorrows plans:** I would like to pick up where I left off and go back to image segmentation and practice.
 
+### Day 27: 11th May
+
+**Today's Progress:** It is really challenging to maintain consistency and habitat. This past few weeks in a sprint at work to map mangroves using Sentinel 2 imagery has been really interesting but maxed me out. I'm also aware that I need to work on my development to Data Scientist. So in the spirit of mixing thing up a bit I've decided to do a Kaggle Playground challenge. Today I tackled the Titanic predictions dataset. It is a really great dataset to get started on Kaggle with and so I have focussed today on Exploratory data analysis aka EDA and visualisation using matplotlib and seaborn. 
+
+**Thoughts:** Visualisation is fun, and enjoying using Pandas so much too. 
+
+**Tomorrows plans:** Get into the Machine Learning bit. 
+
 # Glossary of Data Science Terminology
 
 **Machine Learning**
