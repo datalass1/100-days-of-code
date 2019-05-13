@@ -305,6 +305,14 @@ Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/note
 
 **Tomorrows plans:** Get into the Machine Learning bit. 
 
+### Day 28: 12th May
+
+**Today's Progress:** Today I completed work on NaNs, grouping data into categories, a few more visualisations and researching the data prep required for machine learning: label, binary and one-hot encoding.  
+
+**Thoughts:** I used pandas `apply` with a lambda function, pandas `map` with a dictionary of new values and pandas `groupby`
+
+**Tomorrows plans:** Continue machine learning research and get started. 
+
 # Glossary of Data Science Terminology
 
 **Machine Learning**
