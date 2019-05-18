@@ -321,6 +321,15 @@ Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/note
 
 **Tomorrows plans:** Try out the machine learning classifiers - logistic regression, random forest and others. What gets the best result and how to I calculate the accuracy. 
 
+### Day 30, 31 and 32: 14th to 16th May
+
+**Today's Progress:** Working through Deep Learning with Python by Francois Chollet on audiobook and [o'reilly video edition](https://learning.oreilly.com/videos/deep-learning-with/9781617294433VE/9781617294433VE-DLwP_Chapter2Section4)
+
+**Thoughts:** Looking at tensor dimensions and operations with emphasis on code rather than equations.
+
+**Tomorrows plans:** Get back to ensemble learning. 
+
+
 # Glossary of Data Science Terminology
 
 **Machine Learning**
