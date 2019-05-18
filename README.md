@@ -313,6 +313,23 @@ Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/note
 
 **Tomorrows plans:** Continue machine learning research and get started. 
 
+### Day 29: 13th May
+
+**Today's Progress:** Today I researched and completed encoding as part of feature engineering. 
+
+**Thoughts:** I had to understand whether I should use label (ordinal), binary, one-hot, dummy to transform categorical data into numerical data. I used `pandas.get_dummies` following the advice in [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition Chpt 2, by Aurélien Géron ](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/ch02.html). I dropped the unnessary column, remember `axis` argument. 
+
+**Tomorrows plans:** Try out the machine learning classifiers - logistic regression, random forest and others. What gets the best result and how to I calculate the accuracy. 
+
+### Day 30, 31 and 32: 14th to 16th May
+
+**Today's Progress:** Working through Deep Learning with Python by Francois Chollet on audiobook and [o'reilly video edition](https://learning.oreilly.com/videos/deep-learning-with/9781617294433VE/9781617294433VE-DLwP_Chapter2Section4)
+
+**Thoughts:** Looking at tensor dimensions and operations with emphasis on code rather than equations.
+
+**Tomorrows plans:** Get back to ensemble learning. 
+
+
 # Glossary of Data Science Terminology
 
 **Machine Learning**
