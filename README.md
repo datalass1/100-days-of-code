@@ -329,6 +329,14 @@ Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/note
 
 **Tomorrows plans:** Get back to ensemble learning. 
 
+### Day 33: 18th May
+
+**Today's Progress:** Back to titanic and looking at a logisitic regression model.
+
+**Thoughts:** Learning about sigmoid acitivation model evaluation.
+
+**Tomorrows plans:** finish code with happy understanding of what is going on. 
+
 
 # Glossary of Data Science Terminology
 
