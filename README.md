@@ -337,6 +337,33 @@ Link to notebook: https://github.com/datalass1/100-days-of-code/blob/master/note
 
 **Tomorrows plans:** finish code with happy understanding of what is going on. 
 
+### Day 34 and 35: 19th and 20th May
+
+**Today's Progress:** Working through Deep Learning with Python.
+
+**Thoughts:** Learning about Tensor operations such as Tensor re-shaping with `np.reshape` or `np.transpose` (to switch columns and rows). Tensor dot with `np.dot`. The a neural network is avery complex geometric transformation in a high dimensional space, implemented via a long series of simple steps. 
+
+Gradient based optimization works on the fact that all operations in the network are **differentiable**. 
+
+First step: calcualte the relu `output = relu(dot(W, input) + b)` then calculate loss to update the weights efficiently with gradient based optimization. 
+
+**Tomorrows plans:** Back to Titanic. 
+
+### Day 36: 21st May
+
+**Today's Progress:** Back to logistic regression for the titanic kaggle competition. 
+
+**Thoughts:** Learning that it is important to scale numerical data. Using scikit-learn `StandardScalar()`.
+
+**Tomorrows plans:** Continue with logisitic regression classifier. 
+
+## Day
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Tomorrows plans:** 
 
 # Glossary of Data Science Terminology
 
