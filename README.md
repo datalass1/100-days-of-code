@@ -357,6 +357,16 @@ First step: calcualte the relu `output = relu(dot(W, input) + b)` then calculate
 
 **Tomorrows plans:** Continue with logisitic regression classifier. 
 
+## Day 37: 22nd May
+
+**Today's Progress:** Finished logistic regression using `sklearn.linear_model LogisticRegresion()`. I made sure that I used `sklearn.model_selection train_test_split` to create a 20% of the training data for validation. The test dataset from Kaggle is not labelled. My accuracy: 84% on the train set and 79% on the validation. Indicates slight overfitting. 
+
+**Thoughts:** So many other notebooks and blogs make logistic regression seem so complicated...until I found [Mashimo's blog](https://mashimo.wordpress.com/2018/03/31/logistic-regression-using-sklearn/). I also found chpt 2 on end-to-end machine learning in [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition by Aurélien Géron](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/ch02.html#) useful. I really liked the use of `sklearn.pipeline`.
+
+I used `intercept_` and `coef_` to view the model weights and bias. 
+
+**Tomorrows plans:** Look at Random Forest to see if I get a better result. 
+
 ## Day
 
 **Today's Progress:**
