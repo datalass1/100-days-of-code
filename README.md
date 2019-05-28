@@ -367,6 +367,15 @@ I used `intercept_` and `coef_` to view the model weights and bias.
 
 **Tomorrows plans:** Look at Random Forest to see if I get a better result. 
 
+## Day 38, 39 and 40
+
+**Today's Progress:** Getting a deeper understanding of Logistic Regression before moving onto Random Forest. 
+
+**Thoughts:** Enjoying the [ML-cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html) and Andrew Ng's coursera course on Machine Learning.
+
+**Tomorrows plans:** Finish logsitic regression and code for it on the Titanic dataset. 
+
+
 ## Day
 
 **Today's Progress:**
@@ -374,6 +383,7 @@ I used `intercept_` and `coef_` to view the model weights and bias.
 **Thoughts:**
 
 **Tomorrows plans:** 
+
 
 # Glossary of Data Science Terminology
 
