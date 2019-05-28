@@ -371,7 +371,7 @@ I used `intercept_` and `coef_` to view the model weights and bias.
 
 **Today's Progress:** Getting a deeper understanding of Logistic Regression before moving onto Random Forest. 
 
-**Thoughts:** Enjoying the [ML-cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html) and Andrew Ng's coursera course on Machine Learning.
+**Thoughts:** Enjoying the [ML-cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html) and [Andrew Ng's coursera course on Machine Learning](https://www.coursera.org/learn/machine-learning/home/welcome). Good blog on [linear regression](https://towardsdatascience.com/linear-regression-cost-function-gradient-descent-normal-equations-1d2a6c878e2c) and week 3 of the [ML course](https://medium.com/@rgotesman1/learning-machine-learning-part-3-logistic-regression-94db47a94ea3)
 
 **Tomorrows plans:** Finish logsitic regression and code for it on the Titanic dataset. 
 
