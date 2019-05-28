@@ -357,7 +357,7 @@ First step: calcualte the relu `output = relu(dot(W, input) + b)` then calculate
 
 **Tomorrows plans:** Continue with logisitic regression classifier. 
 
-## Day 37: 22nd May
+### Day 37: 22nd May
 
 **Today's Progress:** Finished logistic regression using `sklearn.linear_model LogisticRegresion()`. I made sure that I used `sklearn.model_selection train_test_split` to create a 20% of the training data for validation. The test dataset from Kaggle is not labelled. My accuracy: 84% on the train set and 79% on the validation. Indicates slight overfitting. 
 
@@ -367,7 +367,7 @@ I used `intercept_` and `coef_` to view the model weights and bias.
 
 **Tomorrows plans:** Look at Random Forest to see if I get a better result. 
 
-## Day 38, 39 and 40
+### Day 38, 39 and 40: 26th, 27th and 29th May
 
 **Today's Progress:** Getting a deeper understanding of Logistic Regression before moving onto Random Forest. 
 
