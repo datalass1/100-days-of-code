@@ -401,3 +401,5 @@ Source: Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd 
 **Visualisation with PyViz:** [tutorial](http://pyviz.org/tutorial/index.html) and [video](https://www.youtube.com/watch?v=k27MJJLJNT4), about [holoviews](http://holoviews.org/), [geoviews](http://geoviews.org/), some cool notebookes: [airports](https://anaconda.org/philippjfr/airport_connections/notebook), [nyc taxi](http://datashader.org/topics/nyc_taxi.html), [OSM points](http://datashader.org/topics/osm-1billion.html). Using dask functionality, here is the [docs](https://docs.dask.org/en/latest/) and a [tutorial](https://github.com/dask/dask-tutorial/) suggested by Andrew.
 
 **Maths with Gilbert Strang MIT:** [best videos and notes on linear algebra](http://www-math.mit.edu/~gs/) - recommended by Cate. 
+
+**Statistics:** analytical (solving equations through factorisation) vs. numerical (loss, SGD, iterative). Machine Learning is typically numerical. Linear and Logistic regression is usually analytical whereas k-means would be numerical.   
