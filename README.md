@@ -402,4 +402,4 @@ Source: Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd 
 
 **Maths with Gilbert Strang MIT:** [best videos and notes on linear algebra](http://www-math.mit.edu/~gs/) - recommended by Cate. 
 
-**Statistics:** analytical (solving equations through factorisation) vs. numerical (loss, SGD, iterative). Machine Learning is typically numerical. Linear and Logistic regression is usually analytical whereas k-means would be numerical.   
+**Statistics:** analytical (solving equations through factorisation) vs. numerical (loss, SGD, iterative). Machine Learning is typically numerical. Linear and Logistic regression is usually analytical whereas k-means would be numerical. Recommended research by Tom. 
